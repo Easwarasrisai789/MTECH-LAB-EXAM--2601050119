@@ -112,6 +112,4 @@ Merge Sort divides the array into smaller subarrays and merges them in sorted or
 
 The product prices were successfully sorted in ascending order using the Merge Sort algorithm, and the number of comparisons was calculated.
 
-## 10. Reference
 
-Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein, *Introduction to Algorithms*, MIT Press.
